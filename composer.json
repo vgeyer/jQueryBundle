@@ -1,5 +1,5 @@
 {
-    "name": "lx/jQueryBundle",
+    "name": "lx/jquery-bundle",
     "description": "This bundle provides several jQuery libaries, such as jQuery itself, jQuery UI, and jQuery mobile.",
     "minimum-stability": "dev",
     "authors": [
