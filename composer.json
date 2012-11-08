@@ -1,0 +1,14 @@
+{
+    "name": "lx/jQueryBundle",
+    "description": "This bundle provides several jQuery libaries, such as jQuery itself, jQuery UI, and jQuery mobile.",
+    "minimum-stability": "dev",
+    "authors": [
+        {
+            "name": "Victor J. C. Geyer",
+            "email": "victorgeyer@ciscaja.com"
+        }
+    ],
+    "require": {
+
+    }
+}
