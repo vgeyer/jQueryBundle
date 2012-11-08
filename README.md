@@ -31,7 +31,9 @@ To use the components you have to include it with assetic in twig.
 ```
 Just pick out the files you need for your project, include them and GO!
 
-        Note: Watch out for the dependencies of thecomponents. For example, widget and mouse need the core component.
+        Note: Watch out for the dependencies of the components. For example, widget and mouse need the core component.
 
 The filter attribute is optional, but we highly recommend using it because of none of the javascript and css files are minified for development reasons.
 We further recommend reading the article about assetic in the Symfony2 documentation. -> http://symfony.com/doc/2.0/cookbook/assetic/asset_management.html
+
+Please note: This is only a 'summary' of javascript &css libaries written by the maintainers of jQuery.com, jqueryui.com and jquerymobile.com
