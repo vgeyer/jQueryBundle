@@ -8,7 +8,9 @@
             "email": "victorgeyer@ciscaja.com"
         }
     ],
-    "require": {
-
-    }
+    "require": {},
+    "autoload": {
+        "psr-0": { "lx\\jQueryBundle": "" }
+    },
+    "target-dir": "lx/jQueryBundle"
 }
