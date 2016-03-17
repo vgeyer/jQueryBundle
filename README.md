@@ -1,3 +1,8 @@
+Support discontinued
+====================
+The support for this bundle is discontinued. Read why: http://matznermatzner.de/en/bernd/2013/11/dont-use-my-symfony2-bundles/ 
+
+
 jQueryBundle
 ===============
 This bundle provides several jQuery libaries, such as jQuery itself, jQuery UI, and jQuery mobile.
